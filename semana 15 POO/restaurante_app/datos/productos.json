@@ -1,0 +1,50 @@
+[
+    {
+        "codigo": "001",
+        "nombre": "risotto",
+        "precio": 12.0,
+        "categoria": "snack"
+    },
+    {
+        "codigo": "002",
+        "nombre": "porcion de chocolate",
+        "precio": 4.0,
+        "categoria": "postre"
+    },
+    {
+        "codigo": "003",
+        "nombre": "tarta roja",
+        "precio": 6.0,
+        "categoria": "postre"
+    },
+    {
+        "codigo": "01",
+        "nombre": "jugo de mora",
+        "precio": 2.0,
+        "categoria": "bebida"
+    },
+    {
+        "codigo": "02",
+        "nombre": "buble tea azul",
+        "precio": 5.0,
+        "categoria": "bebida"
+    },
+    {
+        "codigo": "03",
+        "nombre": "granizado rojo",
+        "precio": 3.0,
+        "categoria": "bebida"
+    },
+    {
+        "codigo": "0001",
+        "nombre": "carne asada",
+        "precio": 13.0,
+        "categoria": "comida"
+    },
+    {
+        "codigo": "0002",
+        "nombre": "pollo asado",
+        "precio": 12.0,
+        "categoria": "comida"
+    }
+]
